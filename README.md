@@ -29,9 +29,13 @@ The following diagram depicts the overall system architecture:
 ## Tomcat
 
 
-
+<p align="center"><kbd><img src="https://github.com/DerrickConway/DISTRIBUTED-SYSTEMS/blob/master/images/img.png"></p></kbd>
 The Apache Tomcat® software is an open source implementation of the Java Servlet, JavaServer Pages, Java Expression Language and Java WebSocket technologies. The Java Servlet, JavaServer Pages, Java Expression Language and Java WebSocket specifications are developed under the Java Community Process.
 
 The Apache Tomcat software is developed in an open and participatory environment and released under the Apache License version 2. The Apache Tomcat project is intended to be a collaboration of the best-of-breed developers from around the world. We invite you to participate in this open development project.
 
 Apache Tomcat software powers numerous large-scale, mission-critical web applications across a diverse range of industries and organizations.
+
+## RMI
+<p align="center"><kbd><img src="https://github.com/DerrickConway/DISTRIBUTED-SYSTEMS/blob/master/images/img1.png"></p></kbd>
+The RMI (Remote Method Invocation) is an API that provides a mechanism to create distributed application in java. The RMI allows an object to invoke methods on an object running in another JVM. The RMI provides remote communication between the applications using two objects stub and skeleton.
