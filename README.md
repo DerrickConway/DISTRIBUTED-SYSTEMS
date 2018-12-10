@@ -50,3 +50,7 @@ Copy the URL.
 https://github.com/DerrickConway/DISTRIBUTED-SYSTEMS.git
 
 when you have the downloads completed and clone repositry done navigate to the folder directory. 
+
+have tomecat 7 installed 
+
+run project on server.
