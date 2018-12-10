@@ -39,3 +39,14 @@ Apache Tomcat software powers numerous large-scale, mission-critical web applica
 ## RMI
 <p align="center"><kbd><img src="https://github.com/DerrickConway/DISTRIBUTED-SYSTEMS/blob/master/images/img1.png"></p></kbd>
 The RMI (Remote Method Invocation) is an API that provides a mechanism to create distributed application in java. The RMI allows an object to invoke methods on an object running in another JVM. The RMI provides remote communication between the applications using two objects stub and skeleton.
+
+## how to run
+
+Go to my github, the link is above, clone or download the repository.
+
+https://github.com/DerrickConway/DISTRIBUTED-SYSTEMS
+
+Copy the URL.
+https://github.com/DerrickConway/DISTRIBUTED-SYSTEMS.git
+
+when you have the downloads completed and clone repositry done navigate to the folder directory. 
